@@ -9,4 +9,4 @@ Alur pada program :
 3. Decomposing sinyal menggunakan Discrete Wavelet Transform
 4. Klasifikasi penyakit dengan metode Random Forest
 
-referensi paper : http://www.sciencedirect.com/science/article/pii/S1746809414002006
+Referensi paper : http://www.sciencedirect.com/science/article/pii/S1746809414002006
