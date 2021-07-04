@@ -8,3 +8,5 @@ Alur pada program :
 2. Denoising dengan PCA
 3. Decomposing sinyal menggunakan Discrete Wavelet Transform
 4. Klasifikasi penyakit dengan metode Random Forest
+
+referensi paper : http://www.sciencedirect.com/science/article/pii/S1746809414002006
